@@ -1,4 +1,5 @@
 # goit-39-js-hw-09
+Таймеры и время + Промисы
 
 # Parcel boilerplate
 
