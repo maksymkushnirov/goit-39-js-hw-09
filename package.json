@@ -29,6 +29,7 @@
   "dependencies": {
     "core-js": "^3.24.1",
     "flatpickr": "^4.6.13",
-    "notiflix": "^3.2.5"
+    "notiflix": "^3.2.5",
+    "npm-check-updates": "^16.0.5"
   }
 }
