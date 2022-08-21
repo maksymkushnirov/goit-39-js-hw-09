@@ -24,7 +24,7 @@
     "parcel-plugin-handlebars-precompile": "^1.0.2",
     "parcel-plugin-nuke-dist": "^1.0.1",
     "posthtml-include": "^1.7.4",
-    "sass": "^1.54.4"
+    "sass": "^1.54.5"
   },
   "dependencies": {
     "core-js": "^3.24.1",
